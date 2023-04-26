@@ -1,0 +1,16 @@
+ul {
+    font-weight: normal;
+}
+
+footer{
+    text-align: center;
+}
+
+p{
+    font-size: 25px;
+}
+
+a{
+    color: blue;
+    text-decoration: underline;
+}
